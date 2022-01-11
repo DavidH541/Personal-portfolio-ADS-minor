@@ -3,6 +3,6 @@ This repository is created for the purpose of creating a personal portfolio for 
 
 <details>
 <summary>Datacamp</summary>
-  All done, a few a bit later __
-  ![image](https://user-images.githubusercontent.com/48517401/149022558-aa672f9b-d864-473e-8519-1dc067a78329.png)
+  All done, a few a bit later <br>
+  ![image](https://github.com/DavidH541/Personal-portfolio-ADS-minor/blob/main/datacamp.png?raw=true)
 </details>
