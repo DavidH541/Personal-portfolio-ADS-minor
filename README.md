@@ -3,6 +3,6 @@ This repository is created for the purpose of creating a personal portfolio for 
 
 <details>
 <summary>Datacamp</summary>
-  All done, a few a bit later <br>
+  All done, a few a little later then the deadline. <br>
   ![image](https://github.com/DavidH541/Personal-portfolio-ADS-minor/blob/main/datacamp.png?raw=true)
 </details>
