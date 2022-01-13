@@ -5,7 +5,9 @@ This repository is created for the purpose of creating a personal portfolio for 
 <details>
 <summary>Datacamp</summary>
   Allemaal gedaan, een aantal iets later dan de deadline. Hoop dat het geen probleem is. <br>
+  
   ![image](https://github.com/DavidH541/Personal-portfolio-ADS-minor/blob/main/datacamp.png?raw=true)
+  
 </details>
 
 <details>
