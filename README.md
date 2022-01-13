@@ -117,12 +117,12 @@ This repository is created for the purpose of creating a personal portfolio for 
     </details>    
   </details>
   </details>
-
+---------------------------------------------------------------------------
   <details>
   <summary>Predictive Analytics</summary>
     
   </details>
-  
+---------------------------------------------------------------------------  
   <details>
   <summary>Communication</summary>
     <details>
