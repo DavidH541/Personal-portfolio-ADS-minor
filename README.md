@@ -9,24 +9,26 @@ This repository is created for the purpose of creating a personal portfolio for 
 
 <details>
 <summary>Refelection and evaluation</summary>
-  Ik zal reflecteren met de STARR methode, zoals aangeraden werd door de scoring rubric en omdat het een favoriet is in De Haagse Hogeschool. Tevens gebruik ik deze methode vaak en is deze zeer beproefd.
+  Ik zal reflecteren met behulp van de STARR methode, zoals aangeraden werd door de scoring rubric en omdat het een favoriet is in De Haagse Hogeschool. Tevens gebruik ik deze methode vaak en is deze zeer beproefd.
   <details>
   <summary>Reflection on own contribution to the project</summary>
-    Situatie: Ik kwam in het team Dialogue. Dit team kreeg de opdracht om sociale interactie in de vorm van een gesprek/dialoog te vergaren uit audio bestanden.
-    Taken:
-    Acties:
-    Resultaten:
-    Reflectie:
-    S: What was the situation? 
-    T: What was your task? 
-    A: What actions did you take, what did you do? 
-    R: What was the result, what happened? 
-    R: What did you learn (reflection)?
+    Situatie: Ik kwam in het team Dialogue. Dit team kreeg de opdracht om sociale interactie in de vorm van een gesprek/dialoog te vergaren uit audio bestanden. Dit was met een internationale student in het team, waardoor wij alles in het engels hebben gebouwd en overlegd hebben.
+    <br>Taken: Omdat we met scrum gingen werken, stonden de taken niet vast. Elke sprint werd er opnieuw gekeken naar de voortgang van het project en waar we in de aankomende sprint mee gingen werken. De taken die ik elke sprint heb uitgevoerd zijn terug te vinden op ons [scrum bord](https://tree.taiga.io/project/leanderloomans-smart-teddybear-dialogue/backlog). 
+    <br>Acties: Zo nu en dan moet iemand het voortouw nemen. Dit om bijvoorbeeld iedereen op één lijn te krijgen, zodat iedereen weet waar hij of zij aan toe was. Deze taak heb ik vaak uitgevoerd. 
+    <br>Resultaten:
+    <br>Reflectie:
+    <br>S: What was the situation? 
+    <br>T: What was your task? 
+    <br>A: What actions did you take, what did you do? 
+    <br>R: What was the result, what happened? 
+    <br>R: What did you learn (reflection)?
   </details>
-  
+  <br>  
   <details>
   <summary>Reflection on own learning objectives</summary>
-  
+    <br>
+    
+    <br>  
   </details>
   
   <details>
