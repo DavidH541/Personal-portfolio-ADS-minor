@@ -1,4 +1,6 @@
 # Personal-portfolio-ADS-minor
+## David Hollander
+### 18143911
 This repository is created for the purpose of creating a personal portfolio for the minor Applied Data Science in last year of my studies as Software Engineer. This will be written in dutch, while the chapter names will be in english. This is to help the teachers pinpoint quickly which part is where as most portfolios will be in English.
 
 <details>
@@ -36,19 +38,18 @@ This repository is created for the purpose of creating a personal portfolio for 
   <details>
   <summary>Reflection on own learning objectives</summary>
     <br>
-    Situatie: 
+    Situatie: Ik had verschillende dingen die ik vooraf wilde leren. Ik wilde leren hoe ik een paper ging schrijven. Ik wilde leren om machine learning toe te kunnen passen. Ik wilde een neuraal netwerk kunnen bouwen. Ik wilde verzorgen dat we conversaties konden halen uit audio data.
+    <br>
+    <br>
+    Taken: Om deze dingen te kunnen leren zou ik verschillende taken tot mij moeten nemen. Ik zou aan de paper moeten meeschrijven en van docenten en studiegenoten leren hoe ik dit zou opstellen. Ik zou de machine learning en neurale netwerken lessen moeten volgen om zo het fijne er te van leren en daarna het toe te passen na de les en tijdens het project. Ik zou uiteindelijk moeten nadenken over hoe we het einddoel van het halen van conversaties uit audio moeten volbrengen.
     
     <br>
     <br>
-    Taken: 
+    Acties: Ik heb aan de paper meegeschreven. Ik heb individueel het stuk over het eindproduct geschreven en feedback van groepsgenoten verwerkt. Tevens heb ik vele keren de paper geproofread en zelf ook vele aanpassingen gemaakt en spellingcontroles uitgevoerd. Ik heb (bijna) alle lessen ervaren. (Één niet wegens vermoedde van COVID.) Ik heb verschillende machine learning technieken gebruikt op verschillende data, maar ook op audio data. Ook heb ik geprobeerd om neurale netwerken te bouwen. Ik heb het eindproduct gemaakt en over de onderzoeksvragen gebrainstormd.
     
     <br>
     <br>
-    Acties: 
-    
-    <br>
-    <br>
-    Resultaten: 
+    Resultaten: Als resultaat van het schrijven, proofreaden en aanpassen van de paper is het nu eindelijk af en ingeleverd. Dit is mijn eerste paper ooit en ik en mijn groepsgenoten zijn erg trots op het resultaat.  
     
     <br>
     <br>
