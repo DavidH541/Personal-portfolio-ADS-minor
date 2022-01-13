@@ -1,6 +1,5 @@
 # Personal-portfolio-ADS-minor
-## David Hollander
-### 18143911
+## David Hollander - 18143911
 This repository is created for the purpose of creating a personal portfolio for the minor Applied Data Science in last year of my studies as Software Engineer. This will be written in dutch, while the chapter names will be in english. This is to help the teachers pinpoint quickly which part is where as most portfolios will be in English.
 
 <details>
@@ -42,19 +41,15 @@ This repository is created for the purpose of creating a personal portfolio for 
     <br>
     <br>
     Taken: Om deze dingen te kunnen leren zou ik verschillende taken tot mij moeten nemen. Ik zou aan de paper moeten meeschrijven en van docenten en studiegenoten leren hoe ik dit zou opstellen. Ik zou de machine learning en neurale netwerken lessen moeten volgen om zo het fijne er te van leren en daarna het toe te passen na de les en tijdens het project. Ik zou uiteindelijk moeten nadenken over hoe we het einddoel van het halen van conversaties uit audio moeten volbrengen.
-    
     <br>
     <br>
     Acties: Ik heb aan de paper meegeschreven. Ik heb individueel het stuk over het eindproduct geschreven en feedback van groepsgenoten verwerkt. Tevens heb ik vele keren de paper geproofread en zelf ook vele aanpassingen gemaakt en spellingcontroles uitgevoerd. Ik heb (bijna) alle lessen ervaren. (Één niet wegens vermoedde van COVID.) Ik heb verschillende machine learning technieken gebruikt op verschillende data, maar ook op audio data. Ook heb ik geprobeerd om neurale netwerken te bouwen. Ik heb het eindproduct gemaakt en over de onderzoeksvragen gebrainstormd.
-    
     <br>
     <br>
-    Resultaten: Als resultaat van het schrijven, proofreaden en aanpassen van de paper is het nu eindelijk af en ingeleverd. Dit is mijn eerste paper ooit en ik en mijn groepsgenoten zijn erg trots op het resultaat.  
-    
+    Resultaten: Als resultaat van het schrijven, proofreaden en aanpassen van de paper is het nu eindelijk af en ingeleverd. Dit is mijn eerste paper ooit en ik en mijn groepsgenoten zijn erg trots op het resultaat. Ik heb verschillende machine learning modellen gemaakt en ook geprobeerd een neuraal netwerk in elkaar te zetten. Dit is mij helaas niet gelukt en na vele pogingen had ik het stokje doorgegeven aan iemand anders uit de groep. Het eindproduct is ook zeker iets waar ik trots op ben. Dit product gebruikt twee neurale netwerken en resultaten terug om voor experts en verzorgers van de patiënten om een besluit te maken of de patiënt uiteindelijk een gesprek heeft gehad. Tevens hebben we de onderzoeksvraag goed kunnen formuleren.
     <br>
     <br>
-    Reflectie: 
-    
+    Reflectie: Ik ben blij met de meeste resultaten. Ik ben trots op het eindproduct. Ik ben trots op de paper. Ook ben ik trots over hoeveel ik heb geleerd over machine learning, data science en neurale netwerken. Dit was altijd al een nieuw en onontdekt vakgebied waar ik zeer benieuwd naar was. Ik ben blij dat ik deze minor heb gekozen en had het erg naar mijn zin. Wat ik volgende keer wel anders zou doen is dichter bij het ontwikkelen van de neurale netwerken blijven. Het ontwikkelen van de huidige neurale netwerken heb ik wel meegemaakt maar niet zelf veel aan ontwikkeld. Dit zou ik volgende keer anders doen door meer samen te werken er aan in plaats van het werk uit mijn handen laten nemen.    
     <br>  
   </details>
   
