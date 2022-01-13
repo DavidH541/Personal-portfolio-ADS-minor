@@ -81,8 +81,35 @@ This repository is created for the purpose of creating a personal portfolio for 
     <br>
     <br>
     Reflectie:
-  <br> Achteraf gezien hadden wij eerder aan de bel moeten trekken dat onze probleemeigenaar niet of slecht reageerde op onze uitnodigingen. In dit geval hadden de docenten nog kunnen helpen met de probleemeigenaar te contacteren. In dit geval hadden we dan al onze vragen beantwoord kunnen krijgen en duidelijker conclusies kunnen trekken over hoe het eindproduct zou moeten functioneren om de probleemeigenaar tevrede te stellen. Nu hebben wij een beetje artistieke vrijheid genomen om te bepalen wat de probleemeigenaar van ons wilde binnen de scope en tijdsframe van het project. Naar mijn mening hebben wij alles gedaan om met de probleemeigenaar in contact te komen, naast het melden bij de docenten natuurlijk. Ik ben erg tevreden over hoe uiteindelijk het scrum bord is gebruikt en is ingevuld. Naar mijn mening was het meer Scrum In Name Only dan echt scrum, maar het werkte prima voor dit project van 20 weken. In theorie was het meer een combinatie van watervallen en agile. Dit werkte prima, omdat het toch een project was van 20 weken.
+  <br> Achteraf gezien hadden wij eerder aan de bel moeten trekken dat onze probleemeigenaar niet of slecht reageerde op onze uitnodigingen. In dit geval hadden de docenten nog kunnen helpen met de probleemeigenaar te contacteren. In dit geval hadden we dan al onze vragen beantwoord kunnen krijgen en duidelijker conclusies kunnen trekken over hoe het eindproduct zou moeten functioneren om de probleemeigenaar tevrede te stellen. Nu hebben wij een beetje artistieke vrijheid genomen om te bepalen wat de probleemeigenaar van ons wilde binnen de scope en tijdsframe van het project. Naar mijn mening hebben wij alles gedaan om met de probleemeigenaar in contact te komen, naast het melden bij de docenten natuurlijk. Ik ben erg tevreden over hoe uiteindelijk het scrum bord is gebruikt en is ingevuld. Naar mijn mening was het meer Scrum In Name Only dan echt scrum, maar het werkte prima voor dit project van 20 weken. In theorie was het meer een combinatie van watervallen en agile. Dit werkte prima, omdat het toch een project was van 20 weken. De rest van het project verliep heel soepel en ik vond het een fijn groepje waarbij iedereen goed meewerkte!
     <br>
   </details>
 </details>
 
+<details>
+<summary>Three chosen subjects</summary>
+  
+  <details>
+  <summary>Research project</summary>
+    
+  </details>
+  
+  <details>
+  <summary>Predictive Analytics</summary>
+    
+  </details>
+  
+  <details>
+  <summary>Communication</summary>
+    <details>
+    <summary>Presentations</summary>
+      Een goed voorbeeld van een presentatie die ik heb gedaan is de learning lab die ik samen met Maria Hoendermis heb gegeven. We gaven een learning lab over Data preparation voor foto's en audio. De prezi is ![hier](https://prezi.com/view/thqP2twqtJYNy0Mc3jK8/) te vinden en de dingen die we hebben gezegd zijn te vinden in ![deze google doc](https://docs.google.com/document/d/1wIj7YU-GvR_0GvXoPOAHnMn4Yn4kZhYZ5hURi01vHDA/edit?usp=sharing). Voor deze presentatie hadden we ![deze map](https://datascience.hhs.nl:8888/user/18143911/tree/dialogue/Learning_Lab) in jupyterhub voorbereid met daarin een ![notebook](https://datascience.hhs.nl:8888/user/18143911/notebooks/dialogue/Learning_Lab/Learning%20lab%20-%20Audio%20preparation.ipynb) voor de audio data en een ![notebook](https://datascience.hhs.nl:8888/user/18143911/notebooks/dialogue/Learning_Lab/Learning%20Lab%20-%20Images.ipynb) voor images. Hierbij had ik alles van audio geprepareerd en verteld tijdens de learning lab en Maria alles aan de images gerelateerd.
+    </details>    
+    <details>
+    <summary>Writing paper</summary>
+    
+    </details>     
+  </details>
+  
+  
+</details>
