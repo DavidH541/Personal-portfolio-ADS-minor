@@ -103,7 +103,14 @@ This repository is created for the purpose of creating a personal portfolio for 
   <summary>Communication</summary>
     <details>
     <summary>Presentations</summary>
-      Een goed voorbeeld van een presentatie die ik heb gedaan is de learning lab die ik samen met Maria Hoendermis heb gegeven. We gaven een learning lab over Data preparation voor foto's en audio. De prezi is ![hier](https://prezi.com/view/thqP2twqtJYNy0Mc3jK8/) te vinden en de dingen die we hebben gezegd zijn te vinden in ![deze google doc](https://docs.google.com/document/d/1wIj7YU-GvR_0GvXoPOAHnMn4Yn4kZhYZ5hURi01vHDA/edit?usp=sharing). Voor deze presentatie hadden we ![deze map](https://datascience.hhs.nl:8888/user/18143911/tree/dialogue/Learning_Lab) in jupyterhub voorbereid met daarin een ![notebook](https://datascience.hhs.nl:8888/user/18143911/notebooks/dialogue/Learning_Lab/Learning%20lab%20-%20Audio%20preparation.ipynb) voor de audio data en een ![notebook](https://datascience.hhs.nl:8888/user/18143911/notebooks/dialogue/Learning_Lab/Learning%20Lab%20-%20Images.ipynb) voor images. Hierbij had ik alles van audio geprepareerd en verteld tijdens de learning lab en Maria alles aan de images gerelateerd.
+      <br>
+      Een goed voorbeeld van een presentatie die ik heb gedaan is de learning lab die ik samen met Maria Hoendermis heb gegeven. We gaven een learning lab over Data preparation voor foto's en audio. De prezi is [hier](https://prezi.com/view/thqP2twqtJYNy0Mc3jK8/) te vinden en de dingen die we hebben gezegd zijn te vinden in [deze google doc](https://docs.google.com/document/d/1wIj7YU-GvR_0GvXoPOAHnMn4Yn4kZhYZ5hURi01vHDA/edit?usp=sharing). Voor deze presentatie hadden we [deze map](https://datascience.hhs.nl:8888/user/18143911/tree/dialogue/Learning_Lab) in jupyterhub voorbereid met daarin een [notebook](https://datascience.hhs.nl:8888/user/18143911/notebooks/dialogue/Learning_Lab/Learning%20lab%20-%20Audio%20preparation.ipynb) voor de audio data en een [notebook](https://datascience.hhs.nl:8888/user/18143911/notebooks/dialogue/Learning_Lab/Learning%20Lab%20-%20Images.ipynb) voor images. Hierbij had ik alles van audio geprepareerd en verteld tijdens de learning lab en Maria alles aan de images gerelateerd. 
+      <br>
+      <br>
+      Voor externe presentaties heb ik in de (eerst externe presentatie)[https://docs.google.com/presentation/d/1WzA2z_zZoB8E06DbU7IOXA3dTB0pueHfBE-lGYLRYFo/edit?usp=sharing] geopend, ons geïntroduceerd, het probleem en domein uitgelegd en het smart teddy bear project uitgelegd.
+      <br>
+      <br>
+      Voor interne presentaties heb ik 
     </details>    
     <details>
     <summary>Writing paper</summary>
