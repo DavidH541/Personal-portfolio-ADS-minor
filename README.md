@@ -1,6 +1,6 @@
 # Personal-portfolio-ADS-minor
 ## David Hollander - 18143911
-This repository is created for the purpose of creating a personal portfolio for the minor Applied Data Science in last year of my studies as Software Engineer. This will be written in dutch, while the chapter names will be in english. This is to help the teachers pinpoint quickly which part is where as most portfolios will be in English.
+This repository is created for the purpose of creating a personal portfolio for the minor Applied Data Science in last year of my studies as Software Engineer. This will be written in dutch, while the chapter names will be in english. This is to help the teachers pinpoint quickly which part is where as most portfolios will be in English. I want to apologize in advance about some links not being tidy. I use the exact same syntax everywhere, but GitHub doesn't interpret it good all the time. I was not able to find a fix for this.
 
 <details>
 <summary>Datacamp</summary>
