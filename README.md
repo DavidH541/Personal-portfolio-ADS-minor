@@ -125,10 +125,9 @@ This repository is created for the purpose of creating a personal portfolio for 
       <br> Ik heb alles over het eindproduct geschreven en verbeterd. In de methods (III F) staat een groot deel over hoe het eindproduct is samengesteld en waar het eindproduct uit bestaat. In de results (IV C) is dan weer te lezen wat het eindproduct dan weer als resultaten geeft. Dit is door mij geschreven, door anderen feedback op gegeven en verder heb ik het weer aangepast. 
       <br> Ook heb ik veel stukken in de paper vaak geproofread en aangepast. Een goed voorbeeld is de introductie. Hier heb ik veel tijd aan besteed om het goed te proofreaden, om zo het verhaal duidelijk te maken. Ik heb veel dingen herschreven, zoals de tweede en derde alinea van de introductie. 
       <br> Tevens heb ik vele malen de paper doorgelezen om spel- en grammaticafouten te verbeteren. Dit is allemaal terug te zien in de versie control van <a href="https://www.overleaf.com/project/614dba963f42320d370e3a62">overleaf</a>.
-      <br> Wij hebben ook vaak online feedback besproken en verwerkt, bijvoorbeeld na de feedback sessie van Jeroen. <br>      
+      <br> Wij hebben ook vaak online feedback besproken en verwerkt, bijvoorbeeld na de feedback sessie van Jeroen. <br>  
+      
       ![image](https://github.com/DavidH541/Personal-portfolio-ADS-minor/blob/main/meeting%20paper.jpg?raw=true) 
     </details>     
   </details>
-  
-  
 </details>
