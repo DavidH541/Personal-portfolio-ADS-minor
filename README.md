@@ -9,7 +9,7 @@ This repository is created for the purpose of creating a personal portfolio for 
   ![image](https://github.com/DavidH541/Personal-portfolio-ADS-minor/blob/main/datacamp.png?raw=true)
   
 </details>
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 <details>
 <summary>Refelection and evaluation</summary>
   Ik zal reflecteren met behulp van de STARR methode, zoals aangeraden werd door de scoring rubric en omdat het een favoriet is in De Haagse Hogeschool. Tevens gebruik ik deze methode vaak en is deze zeer beproefd.
@@ -89,16 +89,15 @@ This repository is created for the purpose of creating a personal portfolio for 
 </details>
 
 <details>
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 <summary>Three chosen subjects</summary>
   
   <details>
   <summary>Research project</summary>
-    
     <details>
     <summary>Task definition</summary>
       
-    </details>
-    
+    </details>    
     <details>
     <summary>Evaluation</summary>
       
@@ -114,8 +113,7 @@ This repository is created for the purpose of creating a personal portfolio for 
       Ik en mijn groep hebben dit project met scrum aangepakt. Wij hebben met taiga een scrum bord gemaakt. ![image](https://user-images.githubusercontent.com/48517401/149417431-17830c35-9547-4cb7-ace9-900bd8178cb6.png). Rechts kunt u alle sprints zien. Wij hebben sprints van meestal 2 en als laatste een van 3 weken gedaan. Hierbij werden tasks aangemaakt en op mensen hun naam gezet. ![image](https://user-images.githubusercontent.com/48517401/149417827-52a1872c-b465-4bc6-b076-73b9f787e334.png) Op deze foto is er goed te zien dat er verschillende plaatjes zijn voor iedereen met een andere task. Het is goed om te melden dat elke sprint een doel had en wij zo geleidelijk een planning hadden door het project heen. Stand-ups werden elke dag om half 10 gedaan, mits er geen andere verplichtingen er op dat moment waren.
       <br> Wij hebben elke week de scrummaster gerouleerd, zodat iedereen voldoende ervaring hiermee kon opdoen als scrummaster.
     </details>    
-  </details>  
-  --------------------------------------------------------------------------------
+  </details>
   <details>
   <summary>Predictive Analytics</summary>
     
