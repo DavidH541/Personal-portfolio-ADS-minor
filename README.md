@@ -107,7 +107,7 @@ This repository is created for the purpose of creating a personal portfolio for 
     </details>
     <details>
     <summary>Conclusions</summary>
-      Uiteindelijk waren er dus twee Convolutional Neural Networks gebruikt in het eindproduct. Deze geven uiteindelijk de resultaten: de hoeveelheid van de audio er gesproken wordt en hoe vaak de spreker veranderd.
+      Uiteindelijk waren er dus twee Convolutional Neural Networks gebruikt in het eindproduct. Deze geven uiteindelijk de resultaten: de hoeveelheid van de audio er gesproken wordt en hoe vaak de spreker veranderd. Ik en de groep durfden hier geen conclusies uit te trekken dat er conversaties waren op basis van deze gevonden data. Wegens beperkt contact met de probleemeigenaar hebben wij niet kunnen oordelen of dit genoeg is om hier uit te halen of er conversatie was. Wij hopen dat experts en de verzorgers van de patienten te verschaffen met deze data, zodat zij de conclusies kunnen trekken dat er conversatie aanwezig was.
     </details>
     <details>
     <summary>Planning</summary>
