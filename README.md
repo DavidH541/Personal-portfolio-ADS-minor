@@ -20,19 +20,15 @@ This repository is created for the purpose of creating a personal portfolio for 
     <br>
     <br>
     Taken: Omdat we met scrum gingen werken, stonden de taken niet vast. Elke sprint werd er opnieuw gekeken naar de voortgang van het project en waar we in de aankomende sprint mee gingen werken. De taken die ik elke sprint heb uitgevoerd zijn terug te vinden op ons [scrum bord](https://tree.taiga.io/project/leanderloomans-smart-teddybear-dialogue/backlog). Ik heb ook gerouleerd met de groepsleden om soms een presentatie voor te bereiden en te presenteren. Ook had ik de taak op mij genomen om het eindproduct te maken. Ik moest voor het eindproduct ook alles in de paper schrijven en deze continue proofreaden om tot een mooi resultaat te komen.
-    
     <br>
     <br>
     Acties: Zo nu en dan moet iemand het voortouw nemen. Dit om bijvoorbeeld iedereen op één lijn te krijgen, zodat iedereen weet waar hij of zij aan toe was. Deze taak heb ik vaak uitgevoerd. Een andere taak die ik heb uitgevoerd is scrum master. Deze rol rouleerden wij elke week. Ik heb ook individueel het eind product gemaakt. Deze taak nam ik op mij omdat ik het altijd erg leuk vind om alle stukken code aan elkaar te bouwen en omdat ik al langere tijden het aan het voorbereiden was. Tevens heb ik presentaties gegeven en gemaakt. Ik heb in de paper geschreven over het eindproduct en continue geproofread en aanpassingen gemaakt en de rest van de paper.
-    
     <br>
     <br>
     Resultaten: Als scrum master heb ik alle meetings goed laten vloeien en vredig laten verlopen. Tevens heb ik de lokalen zo nu en dan geregeld om in te zitten om als groep aan het project te werken. Ook heb ik vaak het scrum bord up-to-date gehouden, om zo het overzicht van het project te behouden. Dit heeft er voor gezorgd dat we alles op tijd hebben kunnen maken en het op tijd aan zijn begonnen en ingeleverd hebben. Het eindproduct bijvoorbeeld is veel aan gesleuteld en heeft nu mooie resultaten bij het uitvoeren van de twee neurale netwerken waar het uit bestaat. Tevens zijn de presentaties goed verlopen en volgens mij goed overgebracht. Ook is de paper nu mooi concreet.
-    
     <br>
     <br>
     Reflectie: Ik heb verschillende dingen geleerd. Ik heb geleerd om een paper te schrijven. Ik heb hierbij geleerd om de IEEE style te gebruiken. Ik heb vele engelse woorden en soms zweedse opgezocht en geleerd tijdens het project i.v.m. de internationale student. Ik heb machine learning en neurale netwerken geleerd hoe je deze toepast en hoe je audio data in deze modellen traint. Naar mijn mening is alles soepel verlopen zonder veel frustratie of stress, omdat we 20 weken de tijd hebben gehad om alles rustig aan te leren. Ik had het erg naar mijn zin tijdens de minor!
-    
     <br>
     <br>
   </details>
