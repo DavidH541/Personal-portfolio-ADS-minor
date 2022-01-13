@@ -115,7 +115,7 @@ This repository is created for the purpose of creating a personal portfolio for 
       Voor interne presentaties heb ik de <a href="https://docs.google.com/presentation/d/1l-r-eZ3w1fTGubwoNY2dD9uJh27vWqsiInmTHdhpVGc/edit#slide=id.p">eerste presentatie</a> voorbereid en misschien gegeven. Helaas, weet ik niet meer zeker welke slides ik heb gedaan.
       <br>
       Tevens heb ik de <a href="https://docs.google.com/presentation/d/1WMZRljw-xfCwXkREjLg8I2kBEnpXSI8PTJXbNT495Tk/edit#slide=id.gf1a2e47dbc_0_56">vijfde presentatie</a> voorbereid en gedaan. Hierbij heb ik de eerste vier slides gedaan.
-      <br> Daarbij heb ik ook nog bij de [zevende presentatie](https://docs.google.com/presentation/d/1rQuJ12VIkdAnk9eWZSQ1UNha9Ut17zCeLd32P1g1Lhc/edit#slide=id.p) ook voorbereid en gegeven. Hierbij heb ik de laatste vier slides gedaan.
+      <br> Daarbij heb ik ook nog bij de <a href="https://docs.google.com/presentation/d/1rQuJ12VIkdAnk9eWZSQ1UNha9Ut17zCeLd32P1g1Lhc/edit#slide=id.p">zevende presentatie</a> ook voorbereid en gegeven. Hierbij heb ik de laatste vier slides gedaan.
       <br> Helaas ben ik niet meer zeker welke ik verder heb gegeven. Ik heb wel degelijk nog een paar extra gedaan, maar hoop met deze voorbeelden al te laten zien dat ik hier actief aan heb bijgedragen.
     </details>    
     <details>
@@ -125,6 +125,10 @@ This repository is created for the purpose of creating a personal portfolio for 
       <br> Ik heb alles over het eindproduct geschreven en verbeterd. In de methods (III F) staat een groot deel over hoe het eindproduct is samengesteld en waar het eindproduct uit bestaat. In de results (IV C) is dan weer te lezen wat het eindproduct dan weer als resultaten geeft. Dit is door mij geschreven, door anderen feedback op gegeven en verder heb ik het weer aangepast. 
       <br> Ook heb ik veel stukken in de paper vaak geproofread en aangepast. Een goed voorbeeld is de introductie. Hier heb ik veel tijd aan besteed om het goed te proofreaden, om zo het verhaal duidelijk te maken. Ik heb veel dingen herschreven, zoals de tweede en derde alinea van de introductie. 
       <br> Tevens heb ik vele malen de paper doorgelezen om spel- en grammaticafouten te verbeteren. Dit is allemaal terug te zien in de versie control van <a href="https://www.overleaf.com/project/614dba963f42320d370e3a62">overleaf</a>.
+      <br> Wij hebben ook vaak online feedback besproken en verwerkt, bijvoorbeeld na de feedback sessie van Jeroen.
+      
+      ![image](https://user-images.githubusercontent.com/48517401/149414052-29708db8-590f-4973-b244-5dc05380a50d.png) 
+
     </details>     
   </details>
   
