@@ -17,7 +17,6 @@ This repository is created for the purpose of creating a personal portfolio for 
   <summary>Reflection on own contribution to the project</summary>
     <br>
     Situatie: Ik kwam in het team Dialogue. Dit team kreeg de opdracht om sociale interactie in de vorm van een gesprek/dialoog te vergaren uit audio bestanden. Dit was met een internationale student in het team, waardoor wij alles in het engels hebben gebouwd en overlegd hebben. Vaak moesten er presentaties gehouden worden. Er moest een paper gemaakt worden. Er moest een eindproduct komen om de opdrachtgever tevreden te stellen.
-    
     <br>
     <br>
     Taken: Omdat we met scrum gingen werken, stonden de taken niet vast. Elke sprint werd er opnieuw gekeken naar de voortgang van het project en waar we in de aankomende sprint mee gingen werken. De taken die ik elke sprint heb uitgevoerd zijn terug te vinden op ons [scrum bord](https://tree.taiga.io/project/leanderloomans-smart-teddybear-dialogue/backlog). Ik heb ook gerouleerd met de groepsleden om soms een presentatie voor te bereiden en te presenteren. Ook had ik de taak op mij genomen om het eindproduct te maken. Ik moest voor het eindproduct ook alles in de paper schrijven en deze continue proofreaden om tot een mooi resultaat te komen.
