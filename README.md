@@ -31,7 +31,6 @@ This repository is created for the purpose of creating a personal portfolio for 
     <br>
     Reflectie: Ik heb verschillende dingen geleerd. Ik heb geleerd om een paper te schrijven. Ik heb hierbij geleerd om de IEEE style te gebruiken. Ik heb vele engelse woorden en soms zweedse opgezocht en geleerd tijdens het project i.v.m. de internationale student. Ik heb machine learning en neurale netwerken geleerd hoe je deze toepast en hoe je audio data in deze modellen traint. Naar mijn mening is alles soepel verlopen zonder veel frustratie of stress, omdat we 20 weken de tijd hebben gehad om alles rustig aan te leren. Ik had het erg naar mijn zin tijdens de minor!
     <br>
-    <br>
   </details>
   <br>  
   <details>
@@ -59,22 +58,17 @@ This repository is created for the purpose of creating a personal portfolio for 
     Situatie: Wij waren vijf Nederlandse studenten met één Zweedse student in een groep. Dit zorgde er voor dat we alles in het engels moesten communiceren en maken. Wij kregen de opdracht als team Dialogue om conversaties uit audio te detecteren. Hierbij hadden wij dr. Hani Al-Ers als probleem eigenaar. Er werd tijdens het project met scrum gewerkt.
     <br>
     <br>
-    Taken: Wij hadden dan de taken om scrum uit te voeren gedurende het project. Ook moesten we kijken wie er scrum master zou worden. Wij moesten onze probleemeigenaar tevreden stellen door uiteindelijk een eindproduct te maken waaruit blijkt dat er conversatie in een audio bestand was. Wij moesten zorgen dat we vaak met hem zouden overleggen om zo veel feedback te verschaffen op onze voortgang. 
+    Taken: Wij hadden dan de taken om scrum uit te voeren gedurende het project. Ook moesten we kijken wie er scrum master zou worden. Wij moesten onze probleemeigenaar tevreden stellen door uiteindelijk een eindproduct te maken waaruit blijkt dat er conversatie in een audio bestand was. Wij moesten zorgen dat we vaak met hem zouden overleggen om zo veel feedback te verschaffen op onze voortgang. We moesten alles in het engels maken en communiceren. Tevens moesten wij een scrum bord aanmaken
     <br>
     <br>
-    Acties: 
+    Acties: Wij hebben vaak geprobeerd onze probleemeigenaar te contacteren voor meetings en presentaties. Wij hebben geprobeerd hem te mailen, teams berichten te sturen en direct meetings aangemaakt. Dit in de poging Hani te bereiken. Soms was dit tevergeefs. In de laatste weken hebben wij nog een docent er op aangesproken dat dit gaande was. Wij hebben elke week een nieuwe scrummaster aangewezen op alfabetische volgorde. Tevens hebben wij een scrum bord aangemaakt met taiga.
     <br>
     <br>
-    Resultaten:
+    Resultaten: Helaas kregen wij vaak geen gehoor van onze probleemeigenaar. Vooral aan het einde van het project wanneer wij veel input nodig hadden over hoe hij precies alles wilde ontvangen, wat hij van het eindproduct vond en of dit hem tevreden had gesteld. Dit heeft er voor gezorgd dat we nu onzeker zijn over of de wensen van de probleemeigenaar. Wel zijn wij tevreden en trots op het eindproduct en de resultaten ervan. Wij hebben een volledig ingevuld scrum bord met wie wanneer in welke sprint welke taak heeft uitgevoerd. Wij hebben geleerd hoe we met taiga moeten omgaan.
     <br>
     <br>
-    Reflectie:
+    Reflectie: Achteraf gezien hadden wij eerder aan de bel moeten trekken dat onze probleemeigenaar niet of slecht reageerde op onze uitnodigingen. In dit geval hadden de docenten nog kunnen helpen met de probleemeigenaar te contacteren. In dit geval hadden we dan al onze vragen beantwoord kunnen krijgen en duidelijker conclusies kunnen trekken over hoe het eindproduct zou moeten functioneren om de probleemeigenaar tevrede te stellen. Nu hebben wij een beetje artistieke vrijheid genomen om te bepalen wat de probleemeigenaar van ons wilde binnen de scope en tijdsframe van het project. Naar mijn mening hebben wij alles gedaan om met de probleemeigenaar in contact te komen, naast het melden bij de docenten natuurlijk. Ik ben erg tevreden over hoe uiteindelijk het scrum bord is gebruikt en is ingevuld. Naar mijn mening was het meer Scrum In Name Only dan echt scrum, maar het werkte prima voor dit project van 20 weken. In theorie was het meer een combinatie van watervallen en agile. Dit werkte prima, omdat het toch een project was van 20 weken.
     <br>
   </details>
 </details>
 
-Welke activiteiten zijn uitgevoerd, hoe goed zijn die uitgevoerd en welke bronnen zijn daarbij gebruikt? (proceskwaliteit)  Maak duidelijk wat uit de bronnen gebruikt is en hoe dat in het resultaat tot uiting komt.
-Welke resultaten zijn tot stand gekomen en hoe goed zijn die resultaten? (productkwaliteit)
-Welke feedback heb je ontvangen en wat heb je daarmee gedaan?
-Hoe kritisch ben je zelf geweest, en waarin kwam dat tot uiting?
-Wat vind je zelf van het resultaat, wat ga je de volgende keer anders doen? Welke leerpunten zie je?
