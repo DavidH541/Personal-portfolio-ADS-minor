@@ -83,7 +83,7 @@ This repository is created for the purpose of creating a personal portfolio for 
     <br>
     <br>
     Reflectie:
-  <br> Achteraf gezien hadden wij eerder aan de bel moeten trekken dat onze probleemeigenaar niet of slecht reageerde op onze uitnodigingen. In dit geval hadden de docenten nog kunnen helpen met de probleemeigenaar te contacteren. In dit geval hadden we dan al onze vragen beantwoord kunnen krijgen en duidelijker conclusies kunnen trekken over hoe het eindproduct zou moeten functioneren om de probleemeigenaar tevrede te stellen. Nu hebben wij een beetje artistieke vrijheid genomen om te bepalen wat de probleemeigenaar van ons wilde binnen de scope en tijdsframe van het project. Naar mijn mening hebben wij alles gedaan om met de probleemeigenaar in contact te komen, naast het melden bij de docenten natuurlijk. Ik ben erg tevreden over hoe uiteindelijk het scrum bord is gebruikt en is ingevuld. Naar mijn mening was het meer Scrum In Name Only dan echt scrum, maar het werkte prima voor dit project van 20 weken. In theorie was het meer een combinatie van watervallen en agile. Dit werkte prima, omdat het toch een project was van 20 weken. De rest van het project verliep heel soepel en ik vond het een fijn groepje waarbij iedereen goed meewerkte!
+  <br> Achteraf gezien hadden wij eerder aan de bel moeten trekken dat onze probleemeigenaar niet of slecht reageerde op onze uitnodigingen. In dit geval hadden de docenten nog kunnen helpen met de probleemeigenaar te contacteren. In dit geval hadden we dan al onze vragen beantwoord kunnen krijgen en duidelijker conclusies kunnen trekken over hoe het eindproduct zou moeten functioneren om de probleemeigenaar tevrede te stellen. Nu hebben wij een beetje artistieke vrijheid genomen om te bepalen wat de probleemeigenaar van ons wilde binnen de scope en tijdsframe van het project. Naar mijn mening hebben wij alles gedaan om met de probleemeigenaar in contact te komen, naast het melden bij de docenten natuurlijk. Ik ben erg tevreden over hoe uiteindelijk het scrum bord is gebruikt en is ingevuld. De rest van het project verliep heel soepel en ik vond het een fijn groepje waarbij iedereen goed meewerkte!
     <br>
   </details>
 </details>
@@ -94,8 +94,28 @@ This repository is created for the purpose of creating a personal portfolio for 
   <details>
   <summary>Research project</summary>
     
-  </details>
-  
+    <details>
+    <summary>Task definition</summary>
+      
+    </details>
+    
+    <details>
+    <summary>Evaluation</summary>
+      
+    </details>
+    
+    <details>
+    <summary>Conclusions</summary>
+      
+    </details>
+    
+    <details>
+    <summary>Planning</summary>
+      Ik en mijn groep hebben dit project met scrum aangepakt. Wij hebben met taiga een scrum bord gemaakt. ![image](https://user-images.githubusercontent.com/48517401/149417431-17830c35-9547-4cb7-ace9-900bd8178cb6.png). Rechts kunt u alle sprints zien. Wij hebben sprints van meestal 2 en als laatste een van 3 weken gedaan. Hierbij werden tasks aangemaakt en op mensen hun naam gezet. ![image](https://user-images.githubusercontent.com/48517401/149417827-52a1872c-b465-4bc6-b076-73b9f787e334.png) Op deze foto is er goed te zien dat er verschillende plaatjes zijn voor iedereen met een andere task. Het is goed om te melden dat elke sprint een doel had en wij zo geleidelijk een planning hadden door het project heen. Stand-ups werden elke dag om half 10 gedaan, mits er geen andere verplichtingen er op dat moment waren.
+      <br> Wij hebben elke week de scrummaster gerouleerd, zodat iedereen voldoende ervaring hiermee kon opdoen als scrummaster.
+    </details>    
+  </details>  
+  --------------------------------------------------------------------------------
   <details>
   <summary>Predictive Analytics</summary>
     
