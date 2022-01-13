@@ -95,13 +95,16 @@ This repository is created for the purpose of creating a personal portfolio for 
   <summary>Research project</summary>
     <details>
     <summary>Task definition</summary>
-      
+      In het begin van het project heb ik veel gewerkt om een goede onderzoeksvraag te formuleren. Hiervoor heb ik met het team een <a href="https://docs.google.com/document/d/1RF1W2RGy7TuVBmmxP5Fpokd2k8inWw7Hnq0__6icDQo/edit">moscow list</a> samengesteld in de eerste week. Dit heb ik met Maria later vertaald naar meer <a href="https://docs.google.com/document/d/13hPJuim6G2dhpAmsQCYMtC-LIWWVKL_Ji2Xel6YLFFI/edit#heading=h.x8y0omboritx">onderzoeksvragen</a> en daarna nog verder naar <a href="https://docs.google.com/document/d/1K0H4qi7BsXWctmFp6XEqRm8eLUIv0_yR6W0BplwLBiA/edit">hoofd en deelvragen</a>. Wij hebben deze opgesplitst en ik heb de <a href="https://docs.google.com/document/d/1RI5xWdJjRRbmlgS0sNSkhTKIHXYyE_zpAQiYCa-66p0/edit">volgende deelvragen</a> onderzocht.
+      <br> Dit is allemaal onderzocht wegens de context van het probleem dat wij hebben uitgezocht. Het probleem dat wij onderzochten was het detecteren van conversaties in audio. Dit willen wij doen bij patienten die nog in een vroeg stadium zitten van hun dementie. Deze mensen worden zo gemonitord om te kijken of hun Quality of Life nog voldoende is. Dit staat namelijk direct in verband met het verslechteren van de dementie. Sociale interactie is één van deze Quality of Life factoren. De Smart teddy bear die in de kamer van de patienten worden gezet verzameld dus audio, waarna een algoritme uit die audio moet kunnen bepalen of de patient sociale interactie in de vorm van conversaties ervaard. Dit zorgt ervoor dat hun verzorgers gepast kunnen handelen zodra dat nodig is en tijd besparen als het blijkt dat het niet nodig is.
     </details>    
     <details>
     <summary>Evaluation</summary>
-      
+      Evaluatie over het project zelf staat hierboven al beschreven onder Refelection and evaluation. Om vervolg onderzoek en werk alvast op weg te helpen, raad ik aan om verder de accuracy van de modellen die gebruikt worden te verifiëren in andere specifieke scenario's. Bijvoorbeeld bij een scenario waarbij een spreker praat in een telefoon of tegen een televisie waarop andere mensen die praten of een conversatie hebben wordt afgespeeld. Dit kan worden gerealiseerd door een filter te gebruiken die geluid afkomstig van apparaten weg kan filteren.
+      <br> Een andere verbetering kan zijn wanneer de modellen worden afgestemd op de stem van de patient. Dit zorgt ervoor dat bij afwezigheid van de patient er geen false positives worden voorspeld door het algoritme.
+      <br> Beide modellen zouden verbeterd kunnen worden door ze te laten trainen op nieuwe data van de smart teddy bear. Dit zorgt ervoor dat het model zich daarop af laat meten. 
+      <br> Als laatste wil ik aanbevelen dat het eindproduct verbeterd kan worden door ook andere samples te vergelijken met elkaar om te kijken hoeveel sprekers er totaal in het audio fragment aanwezig zijn. Dit zouden zeer handige features opleveren die eventueel in een laatste nieuwe neuraal netwerk zou kunnen om te bepalen met alle hiervoor vergaarde gegevens of er daadwerkelijk een conversatie was. 
     </details>
-    
     <details>
     <summary>Conclusions</summary>
       
