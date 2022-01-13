@@ -120,7 +120,7 @@ This repository is created for the purpose of creating a personal portfolio for 
     </details>    
     <details>
     <summary>Writing paper</summary>
-      Voor de paper hadden wij het in [overleaf](https://www.overleaf.com/project/614dba963f42320d370e3a62) geschreven. De laatste versie is [hier](https://github.com/DavidH541/Personal-portfolio-ADS-minor/blob/main/Applied_Data_Science___Dialogue.pdf). 
+      De paper hebben wij in [overleaf](https://www.overleaf.com/project/614dba963f42320d370e3a62) geschreven. De laatste versie is [hier](https://github.com/DavidH541/Personal-portfolio-ADS-minor/blob/main/Applied_Data_Science___Dialogue.pdf). 
       <br> Mijn toevoegingen aan de paper zijn als volgt:
       <br> Ik heb alles over het eindproduct geschreven en verbeterd. In de methods staat een groot deel over hoe het eindproduct is samengesteld en waar het eindproduct uit bestaat. In de results is dan weer te lezen wat het eindproduct dan weer als resultaten geeft. Dit is door mij geschreven, door anderen feedback op gegeven en verder heb ik het weer aangepast. 
       <br> Ook heb ik veel stukken in de paper vaak geproofread en aangepast. Een goed voorbeeld is de introductie. Hier heb ik veel tijd aan besteed om het goed te proofreaden, om zo het verhaal duidelijk te maken. Ik heb veel dingen herschreven, zoals de tweede en derde alinea van de introductie. 
