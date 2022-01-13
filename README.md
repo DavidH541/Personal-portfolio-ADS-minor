@@ -109,7 +109,6 @@ This repository is created for the purpose of creating a personal portfolio for 
     <summary>Conclusions</summary>
       Uiteindelijk waren er dus twee Convolutional Neural Networks gebruikt in het eindproduct. Deze geven uiteindelijk de resultaten: de hoeveelheid van de audio er gesproken wordt en hoe vaak de spreker veranderd.
     </details>
-    
     <details>
     <summary>Planning</summary>
       Ik en mijn groep hebben dit project met scrum aangepakt. Wij hebben met taiga een scrum bord gemaakt. ![image](https://user-images.githubusercontent.com/48517401/149417431-17830c35-9547-4cb7-ace9-900bd8178cb6.png). Rechts kunt u alle sprints zien. Wij hebben sprints van meestal 2 en als laatste een van 3 weken gedaan. Hierbij werden tasks aangemaakt en op mensen hun naam gezet. ![image](https://user-images.githubusercontent.com/48517401/149417827-52a1872c-b465-4bc6-b076-73b9f787e334.png) Op deze foto is er goed te zien dat er verschillende plaatjes zijn voor iedereen met een andere task. Het is goed om te melden dat elke sprint een doel had en wij zo geleidelijk een planning hadden door het project heen. Stand-ups werden elke dag om half 10 gedaan, mits er geen andere verplichtingen er op dat moment waren.
