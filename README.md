@@ -127,7 +127,6 @@ This repository is created for the purpose of creating a personal portfolio for 
       <br> Tevens heb ik vele malen de paper doorgelezen om spel- en grammaticafouten te verbeteren. Dit is allemaal terug te zien in de versie control van <a href="https://www.overleaf.com/project/614dba963f42320d370e3a62">overleaf</a>.
       <br> Wij hebben ook vaak online feedback besproken en verwerkt, bijvoorbeeld na de feedback sessie van Jeroen. <br>      
       ![image](https://github.com/DavidH541/Personal-portfolio-ADS-minor/blob/main/meeting%20paper.jpg?raw=true) 
-
     </details>     
   </details>
   
