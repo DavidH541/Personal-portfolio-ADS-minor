@@ -32,7 +32,6 @@ This repository is created for the purpose of creating a personal portfolio for 
     Reflectie: Ik heb verschillende dingen geleerd. Ik heb geleerd om een paper te schrijven. Ik heb hierbij geleerd om de IEEE style te gebruiken. Ik heb vele engelse woorden en soms zweedse opgezocht en geleerd tijdens het project i.v.m. de internationale student. Ik heb machine learning en neurale netwerken geleerd hoe je deze toepast en hoe je audio data in deze modellen traint. Naar mijn mening is alles soepel verlopen zonder veel frustratie of stress, omdat we 20 weken de tijd hebben gehad om alles rustig aan te leren. Ik had het erg naar mijn zin tijdens de minor!
     <br>
   </details>
-  <br>  
   <details>
   <summary>Reflection on own learning objectives</summary>
     <br>
