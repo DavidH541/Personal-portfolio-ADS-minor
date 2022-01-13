@@ -107,7 +107,7 @@ This repository is created for the purpose of creating a personal portfolio for 
     </details>
     <details>
     <summary>Conclusions</summary>
-      
+      Uiteindelijk waren er dus twee Convolutional Neural Networks gebruikt in het eindproduct. Deze geven uiteindelijk de resultaten: de hoeveelheid van de audio er gesproken wordt en hoe vaak de spreker veranderd.
     </details>
     
     <details>
