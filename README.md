@@ -107,10 +107,14 @@ This repository is created for the purpose of creating a personal portfolio for 
       Een goed voorbeeld van een presentatie die ik heb gedaan is de learning lab die ik samen met Maria Hoendermis heb gegeven. We gaven een learning lab over Data preparation voor foto's en audio. De prezi is [hier](https://prezi.com/view/thqP2twqtJYNy0Mc3jK8/) te vinden en de dingen die we hebben gezegd zijn te vinden in [deze google doc](https://docs.google.com/document/d/1wIj7YU-GvR_0GvXoPOAHnMn4Yn4kZhYZ5hURi01vHDA/edit?usp=sharing). Voor deze presentatie hadden we [deze map](https://datascience.hhs.nl:8888/user/18143911/tree/dialogue/Learning_Lab) in jupyterhub voorbereid met daarin een [notebook](https://datascience.hhs.nl:8888/user/18143911/notebooks/dialogue/Learning_Lab/Learning%20lab%20-%20Audio%20preparation.ipynb) voor de audio data en een [notebook](https://datascience.hhs.nl:8888/user/18143911/notebooks/dialogue/Learning_Lab/Learning%20Lab%20-%20Images.ipynb) voor images. Hierbij had ik alles van audio geprepareerd en verteld tijdens de learning lab en Maria alles aan de images gerelateerd. 
       <br>
       <br>
-      Voor externe presentaties heb ik in de (eerst externe presentatie)[https://docs.google.com/presentation/d/1WzA2z_zZoB8E06DbU7IOXA3dTB0pueHfBE-lGYLRYFo/edit?usp=sharing] geopend, ons geïntroduceerd, het probleem en domein uitgelegd en het smart teddy bear project uitgelegd.
+      Voor externe presentaties heb ik in de [eerst externe presentatie](https://docs.google.com/presentation/d/1WzA2z_zZoB8E06DbU7IOXA3dTB0pueHfBE-lGYLRYFo/edit?usp=sharing) geopend, ons geïntroduceerd, het probleem en domein uitgelegd en het smart teddy bear project uitgelegd.
       <br>
       <br>
-      Voor interne presentaties heb ik 
+      Voor interne presentaties heb ik de [eerste presentatie](https://docs.google.com/presentation/d/1l-r-eZ3w1fTGubwoNY2dD9uJh27vWqsiInmTHdhpVGc/edit#slide=id.p) voorbereid en misschien gegeven. Helaas, weet ik niet meer zeker welke slides ik heb gedaan.
+      <br>
+      Tevens heb ik de [vijfde presentatie](https://docs.google.com/presentation/d/1WMZRljw-xfCwXkREjLg8I2kBEnpXSI8PTJXbNT495Tk/edit#slide=id.gf1a2e47dbc_0_56) voorbereid en gedaan. Hierbij heb ik de eerste vier slides gedaan.
+      <br> Daarbij heb ik ook nog bij de [zevende presentatie](https://docs.google.com/presentation/d/1rQuJ12VIkdAnk9eWZSQ1UNha9Ut17zCeLd32P1g1Lhc/edit#slide=id.p) ook voorbereid en gegeven. Hierbij heb ik de laatste vier slides gedaan.
+      <br> Helaas ben ik niet meer zeker welke ik verder heb gegeven. Ik heb wel degelijk nog een paar extra gedaan, maar hoop met deze voorbeelden al te laten zien dat ik hier actief aan heb bijgedragen.
     </details>    
     <details>
     <summary>Writing paper</summary>
