@@ -113,6 +113,7 @@ This repository is created for the purpose of creating a personal portfolio for 
       <br> Wij hebben elke week de scrummaster gerouleerd, zodat iedereen voldoende ervaring hiermee kon opdoen als scrummaster.
     </details>    
   </details>
+  
   <details>
   <summary>Predictive Analytics</summary>
     
