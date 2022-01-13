@@ -56,24 +56,19 @@ This repository is created for the purpose of creating a personal portfolio for 
   <details>
   <summary>Evaluation on the group project as a whole</summary>
     <br>
-    Situatie: 
-    
+    Situatie: Wij waren vijf Nederlandse studenten met één Zweedse student in een groep. Dit zorgde er voor dat we alles in het engels moesten communiceren en maken. Wij kregen de opdracht als team Dialogue om conversaties uit audio te detecteren. Hierbij hadden wij dr. Hani Al-Ers als probleem eigenaar. Er werd tijdens het project met scrum gewerkt.
     <br>
     <br>
-    Taken: 
-    
+    Taken: Wij hadden dan de taken om scrum uit te voeren gedurende het project. Ook moesten we kijken wie er scrum master zou worden. Wij moesten onze probleemeigenaar tevreden stellen door uiteindelijk een eindproduct te maken waaruit blijkt dat er conversatie in een audio bestand was. Wij moesten zorgen dat we vaak met hem zouden overleggen om zo veel feedback te verschaffen op onze voortgang. 
     <br>
     <br>
     Acties: 
-    
     <br>
     <br>
-    Resultaten: 
-    
+    Resultaten:
     <br>
     <br>
-    Reflectie: 
-    
+    Reflectie:
     <br>
   </details>
 </details>
