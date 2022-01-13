@@ -24,7 +24,7 @@ This repository is created for the purpose of creating a personal portfolio for 
     <br>
     <br>
     Taken: 
-  <br>Omdat we met scrum gingen werken, stonden de taken niet vast. Elke sprint werd er opnieuw gekeken naar de voortgang van het project en waar we in de aankomende sprint mee gingen werken. De taken die ik elke sprint heb uitgevoerd zijn terug te vinden op ons [scrum bord]( https://tree.taiga.io/project/leanderloomans-smart-teddybear-dialogue/backlog ). Ik heb ook gerouleerd met de groepsleden om soms een presentatie voor te bereiden en te presenteren. Ook had ik de taak op mij genomen om het eindproduct te maken. Ik moest voor het eindproduct ook alles in de paper schrijven en deze continue proofreaden om tot een mooi resultaat te komen.
+  <br>Omdat we met scrum gingen werken, stonden de taken niet vast. Elke sprint werd er opnieuw gekeken naar de voortgang van het project en waar we in de aankomende sprint mee gingen werken. De taken die ik elke sprint heb uitgevoerd zijn terug te vinden op ons <a href="https://tree.taiga.io/project/leanderloomans-smart-teddybear-dialogue/backlog">scrum bord</a>. Ik heb ook gerouleerd met de groepsleden om soms een presentatie voor te bereiden en te presenteren. Ook had ik de taak op mij genomen om het eindproduct te maken. Ik moest voor het eindproduct ook alles in de paper schrijven en deze continue proofreaden om tot een mooi resultaat te komen.
     <br>
     <br>
     Acties:
@@ -106,21 +106,21 @@ This repository is created for the purpose of creating a personal portfolio for 
     <details>
     <summary>Presentations</summary>
       <br>
-      Een goed voorbeeld van een presentatie die ik heb gedaan is de learning lab die ik samen met Maria Hoendermis heb gegeven. We gaven een learning lab over Data preparation voor foto's en audio. De prezi is [hier](https://prezi.com/view/thqP2twqtJYNy0Mc3jK8/) te vinden en de dingen die we hebben gezegd zijn te vinden in [deze google doc](https://docs.google.com/document/d/1wIj7YU-GvR_0GvXoPOAHnMn4Yn4kZhYZ5hURi01vHDA/edit?usp=sharing). Voor deze presentatie hadden we [deze map](https://datascience.hhs.nl:8888/user/18143911/tree/dialogue/Learning_Lab) in jupyterhub voorbereid met daarin een [notebook](https://datascience.hhs.nl:8888/user/18143911/notebooks/dialogue/Learning_Lab/Learning%20lab%20-%20Audio%20preparation.ipynb) voor de audio data en een [notebook](https://datascience.hhs.nl:8888/user/18143911/notebooks/dialogue/Learning_Lab/Learning%20Lab%20-%20Images.ipynb) voor images. Hierbij had ik alles van audio geprepareerd en verteld tijdens de learning lab en Maria alles aan de images gerelateerd. 
+      Een goed voorbeeld van een presentatie die ik heb gedaan is de learning lab die ik samen met Maria Hoendermis heb gegeven. We gaven een learning lab over Data preparation voor foto's en audio. De prezi is <a href="https://prezi.com/view/thqP2twqtJYNy0Mc3jK8">hier</a> te vinden en de dingen die we hebben gezegd zijn te vinden in <a href="https://docs.google.com/document/d/1wIj7YU-GvR_0GvXoPOAHnMn4Yn4kZhYZ5hURi01vHDA/edit?usp=sharing">deze google doc</a>. Voor deze presentatie hadden we <a href="https://datascience.hhs.nl:8888/user/18143911/tree/dialogue/Learning_Lab">deze map</a> in jupyterhub voorbereid met daarin een <a href="https://datascience.hhs.nl:8888/user/18143911/notebooks/dialogue/Learning_Lab/Learning%20lab%20-%20Audio%20preparation.ipynb">notebook</a> voor de audio data en een <a href="https://datascience.hhs.nl:8888/user/18143911/notebooks/dialogue/Learning_Lab/Learning%20Lab%20-%20Images.ipynb">notebook</a> voor images. Hierbij had ik alles van audio geprepareerd en verteld tijdens de learning lab en Maria alles aan de images gerelateerd. 
       <br>
       <br>
-      Voor externe presentaties heb ik in de [eerst externe presentatie](https://docs.google.com/presentation/d/1WzA2z_zZoB8E06DbU7IOXA3dTB0pueHfBE-lGYLRYFo/edit?usp=sharing) geopend, ons geïntroduceerd, het probleem en domein uitgelegd en het smart teddy bear project uitgelegd.
+      Voor externe presentaties heb ik in de <a href="https://docs.google.com/presentation/d/1WzA2z_zZoB8E06DbU7IOXA3dTB0pueHfBE-lGYLRYFo/edit?usp=sharing">eerst externe presentatie</a> geopend, ons geïntroduceerd, het probleem en domein uitgelegd en het smart teddy bear project uitgelegd.
       <br>
       <br>
-      Voor interne presentaties heb ik de [eerste presentatie](https://docs.google.com/presentation/d/1l-r-eZ3w1fTGubwoNY2dD9uJh27vWqsiInmTHdhpVGc/edit#slide=id.p) voorbereid en misschien gegeven. Helaas, weet ik niet meer zeker welke slides ik heb gedaan.
+      Voor interne presentaties heb ik de <a href="https://docs.google.com/presentation/d/1l-r-eZ3w1fTGubwoNY2dD9uJh27vWqsiInmTHdhpVGc/edit#slide=id.p">eerste presentatie</a> voorbereid en misschien gegeven. Helaas, weet ik niet meer zeker welke slides ik heb gedaan.
       <br>
-      Tevens heb ik de [vijfde presentatie](https://docs.google.com/presentation/d/1WMZRljw-xfCwXkREjLg8I2kBEnpXSI8PTJXbNT495Tk/edit#slide=id.gf1a2e47dbc_0_56) voorbereid en gedaan. Hierbij heb ik de eerste vier slides gedaan.
+      Tevens heb ik de <a href="https://docs.google.com/presentation/d/1WMZRljw-xfCwXkREjLg8I2kBEnpXSI8PTJXbNT495Tk/edit#slide=id.gf1a2e47dbc_0_56">vijfde presentatie</a> voorbereid en gedaan. Hierbij heb ik de eerste vier slides gedaan.
       <br> Daarbij heb ik ook nog bij de [zevende presentatie](https://docs.google.com/presentation/d/1rQuJ12VIkdAnk9eWZSQ1UNha9Ut17zCeLd32P1g1Lhc/edit#slide=id.p) ook voorbereid en gegeven. Hierbij heb ik de laatste vier slides gedaan.
       <br> Helaas ben ik niet meer zeker welke ik verder heb gegeven. Ik heb wel degelijk nog een paar extra gedaan, maar hoop met deze voorbeelden al te laten zien dat ik hier actief aan heb bijgedragen.
     </details>    
     <details>
     <summary>Writing paper</summary>
-      De paper hebben wij in [overleaf](https://www.overleaf.com/project/614dba963f42320d370e3a62) geschreven. De laatste versie is [hier](https://github.com/DavidH541/Personal-portfolio-ADS-minor/blob/main/Applied_Data_Science___Dialogue.pdf). 
+      De paper hebben wij in <a href="https://www.overleaf.com/project/614dba963f42320d370e3a62">overleaf</a> geschreven. De laatste versie is <a href="https://github.com/DavidH541/Personal-portfolio-ADS-minor/blob/main/Applied_Data_Science___Dialogue.pdf">hier te vinden</a>. 
       <br> Mijn toevoegingen aan de paper zijn als volgt:
       <br> Ik heb alles over het eindproduct geschreven en verbeterd. In de methods (III F) staat een groot deel over hoe het eindproduct is samengesteld en waar het eindproduct uit bestaat. In de results (IV C) is dan weer te lezen wat het eindproduct dan weer als resultaten geeft. Dit is door mij geschreven, door anderen feedback op gegeven en verder heb ik het weer aangepast. 
       <br> Ook heb ik veel stukken in de paper vaak geproofread en aangepast. Een goed voorbeeld is de introductie. Hier heb ik veel tijd aan besteed om het goed te proofreaden, om zo het verhaal duidelijk te maken. Ik heb veel dingen herschreven, zoals de tweede en derde alinea van de introductie. 
