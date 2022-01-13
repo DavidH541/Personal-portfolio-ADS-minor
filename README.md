@@ -9,7 +9,7 @@ This repository is created for the purpose of creating a personal portfolio for 
   ![image](https://github.com/DavidH541/Personal-portfolio-ADS-minor/blob/main/datacamp.png?raw=true)
   
 </details>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 <details>
 <summary>Refelection and evaluation</summary>
   Ik zal reflecteren met behulp van de STARR methode, zoals aangeraden werd door de scoring rubric en omdat het een favoriet is in De Haagse Hogeschool. Tevens gebruik ik deze methode vaak en is deze zeer beproefd.
@@ -87,9 +87,8 @@ This repository is created for the purpose of creating a personal portfolio for 
     <br>
   </details>
 </details>
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 <details>
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 <summary>Three chosen subjects</summary>
   
   <details>
