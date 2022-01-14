@@ -9,7 +9,7 @@ This repository is created for the purpose of creating a personal portfolio for 
   ![image](https://github.com/DavidH541/Personal-portfolio-ADS-minor/blob/main/datacamp.png?raw=true)
   
 </details>
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
 <details>
 <summary>Refelection and evaluation</summary>
   Ik zal reflecteren met behulp van de STARR methode, zoals aangeraden werd door de scoring rubric en omdat het een favoriet is in De Haagse Hogeschool. Tevens gebruik ik deze methode vaak en is deze zeer beproefd.
@@ -87,7 +87,7 @@ This repository is created for the purpose of creating a personal portfolio for 
     <br>
   </details>
 </details>
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
 <details>
 <summary>Three chosen subjects</summary>
   
@@ -96,18 +96,19 @@ This repository is created for the purpose of creating a personal portfolio for 
     <details>
     <summary>Task definition</summary>
       In het begin van het project heb ik veel gewerkt om een goede onderzoeksvraag te formuleren. Hiervoor heb ik met het team een <a href="https://docs.google.com/document/d/1RF1W2RGy7TuVBmmxP5Fpokd2k8inWw7Hnq0__6icDQo/edit">moscow list</a> samengesteld in de eerste week. Dit heb ik met Maria later vertaald naar meer <a href="https://docs.google.com/document/d/13hPJuim6G2dhpAmsQCYMtC-LIWWVKL_Ji2Xel6YLFFI/edit#heading=h.x8y0omboritx">onderzoeksvragen</a> en daarna nog verder naar <a href="https://docs.google.com/document/d/1K0H4qi7BsXWctmFp6XEqRm8eLUIv0_yR6W0BplwLBiA/edit">hoofd en deelvragen</a>. Wij hebben deze opgesplitst en ik heb de <a href="https://docs.google.com/document/d/1RI5xWdJjRRbmlgS0sNSkhTKIHXYyE_zpAQiYCa-66p0/edit">volgende deelvragen</a> onderzocht.
-      <br> Dit is allemaal onderzocht wegens de context van het probleem dat wij hebben uitgezocht. Het probleem dat wij onderzochten was het detecteren van conversaties in audio. Dit willen wij doen bij patienten die nog in een vroeg stadium zitten van hun dementie. Deze mensen worden zo gemonitord om te kijken of hun Quality of Life nog voldoende is. Dit staat namelijk direct in verband met het verslechteren van de dementie. Sociale interactie is één van deze Quality of Life factoren. De Smart teddy bear die in de kamer van de patienten worden gezet verzameld dus audio, waarna een algoritme uit die audio moet kunnen bepalen of de patient sociale interactie in de vorm van conversaties ervaard. Dit zorgt ervoor dat hun verzorgers gepast kunnen handelen zodra dat nodig is en tijd besparen als het blijkt dat het niet nodig is.
+      <br> Dit is allemaal onderzocht wegens de context van het probleem dat wij hebben uitgezocht. Het probleem dat wij onderzochten was het detecteren van conversaties in audio. Dit willen wij doen bij patienten die nog in een vroeg stadium zitten van hun dementie. Deze mensen worden zo gemonitord om te kijken of hun Quality of Life nog voldoende is. Dit staat namelijk direct in verband met het verslechteren van de dementie. Sociale interactie is één van deze Quality of Life factoren. De Smart teddy bear die in de kamer van de patienten worden gezet verzameld dus audio, waarna een algoritme uit die audio moet kunnen bepalen of de patient sociale interactie in de vorm van conversaties ervaard. Dit zorgt ervoor dat hun verzorgers gepast kunnen handelen zodra dat nodig is en tijd besparen als het blijkt dat het niet nodig is. Al deze bevindingen zijn beschreven in de paper.
     </details>    
     <details>
     <summary>Evaluation</summary>
       Evaluatie over het project zelf staat hierboven al beschreven onder Refelection and evaluation. Om vervolg onderzoek en werk alvast op weg te helpen, raad ik aan om verder de accuracy van de modellen die gebruikt worden te verifiëren in andere specifieke scenario's. Bijvoorbeeld bij een scenario waarbij een spreker praat in een telefoon of tegen een televisie waarop andere mensen die praten of een conversatie hebben wordt afgespeeld. Dit kan worden gerealiseerd door een filter te gebruiken die geluid afkomstig van apparaten weg kan filteren.
       <br> Een andere verbetering kan zijn wanneer de modellen worden afgestemd op de stem van de patient. Dit zorgt ervoor dat bij afwezigheid van de patient er geen false positives worden voorspeld door het algoritme.
       <br> Beide modellen zouden verbeterd kunnen worden door ze te laten trainen op nieuwe data van de smart teddy bear. Dit zorgt ervoor dat het model zich daarop af laat meten. 
-      <br> Als laatste wil ik aanbevelen dat het eindproduct verbeterd kan worden door ook andere samples te vergelijken met elkaar om te kijken hoeveel sprekers er totaal in het audio fragment aanwezig zijn. Dit zouden zeer handige features opleveren die eventueel in een laatste nieuwe neuraal netwerk zou kunnen om te bepalen met alle hiervoor vergaarde gegevens of er daadwerkelijk een conversatie was. 
+      <br> Als laatste wil ik aanbevelen dat het eindproduct verbeterd kan worden door ook andere samples te vergelijken met elkaar om te kijken hoeveel sprekers er totaal in het audio fragment aanwezig zijn. Dit zouden zeer handige features opleveren die eventueel in een laatste nieuwe neuraal netwerk zou kunnen om te bepalen met alle hiervoor vergaarde gegevens of er daadwerkelijk een conversatie was.   
+      <br>Al deze bevindingen zijn beschreven in de paper.
     </details>
     <details>
     <summary>Conclusions</summary>
-      Uiteindelijk waren er dus twee Convolutional Neural Networks gebruikt in het eindproduct. Deze geven uiteindelijk de resultaten: de hoeveelheid van de audio er gesproken wordt en hoe vaak de spreker veranderd. Ik en de groep durfden hier geen conclusies uit te trekken dat er conversaties waren op basis van deze gevonden data. Wegens beperkt contact met de probleemeigenaar hebben wij niet kunnen oordelen of dit genoeg is om hier uit te halen of er conversatie was. Wij hopen dat experts en de verzorgers van de patienten te verschaffen met deze data, zodat zij de conclusies kunnen trekken dat er conversatie aanwezig was.
+      Uiteindelijk waren er dus twee Convolutional Neural Networks gebruikt in het eindproduct. Deze geven uiteindelijk de resultaten: de hoeveelheid van de audio er gesproken wordt en hoe vaak de spreker veranderd. Ik en de groep durfden hier geen conclusies uit te trekken dat er conversaties waren op basis van deze gevonden data. Wegens beperkt contact met de probleemeigenaar hebben wij niet kunnen oordelen of dit genoeg is om hier uit te halen of er conversatie was. Wij hopen dat experts en de verzorgers van de patienten te verschaffen met deze data, zodat zij de conclusies kunnen trekken dat er conversatie aanwezig was. Al deze bevindingen zijn beschreven in de paper.
     </details>
     <details>
     <summary>Planning</summary>
@@ -117,8 +118,33 @@ This repository is created for the purpose of creating a personal portfolio for 
   </details>
 ---------------------------------------------------------------------------
   <details>
-  <summary>Predictive Analytics</summary>
-    
+  <summary>Domain knowledge</summary>
+    <details>
+    <summary>Introduction of the subject field</summary>
+      Applied data science. Dit is hoe de minor heet. Het toepassen van data science op een echt probleem, dat is wanneer het pas echt interessant wordt. Data science kan dingen bevatten zoals artificial intelligence, machine learning, neural networks, etc. Het is heel breed. Uiteindelijk is het heel kort te omschrijven als het verkrijgen van kennis (van grote hoeveelheden) van data die gestructureerd of ongestructureerd kunnen zijn. Het is een vervolg op de velden Data mining en Predictive Analytics. <br>
+      Het veld wat bij dit project past is audio. Hierbij wordt gefocust op het vertalen van audio naar spectrogrammen en MFCCs, omdat deze omgezette data door de modellen kan worden geinterpreteerd en ze hierop getraind kunnen worden om spraak te herkennen. Deze spectrogrammen en MFCCs kunnen afgebeeld en tevens door mensen worden geïnterpreteerd. Spectrogrammen geven de intensiteit van de frequenties over tijd weer. Door deze data kunnen wij dus modellen trainen en ze laten voorspellen of er mensen aan het praten zijn in de audio!
+    </details>
+    <details>
+    <summary>Literature research</summary>
+      Gedurende het onderzoek heb ik de volgende bronnen gebruikt:<br>
+      https://riverside.fm/blog/wav-vs-mp3 <br>
+      https://learn.datacamp.com/courses/spoken-language-processing-in-python <br>
+      https://en.wikipedia.org/wiki/Dimensionality_reduction <br>
+      https://en.wikipedia.org/wiki/Speaker_diarisation <br>
+      https://en.wikipedia.org/wiki/Cluster_analysis <br>
+      https://dictionary.cambridge.org/dictionary/english/conversation <br>
+      https://medium.com/@tanveer9812/mfccs-made-easy-7ef383006040 <br>
+      Deze bronnen zijn gebruikt tijdens het opstellen en beantwoorden van de deel- en hoofdvragen.
+    </details>
+    <details>
+    <summary>Explanation of terminology, jargon and definitions</summary>
+      artificial intelligence - de simulatie van menselijke intelligentie door machines, meestal gebruikt om te leren of om problemen op te lossen.
+      <br>
+      machine learning - Algoritmes en statistieke modellen die computers uitvoeren om specifieke taken zonder expliciete instructies uit te voeren, afhankelijk van geleerde patronen, functies en data. <br>
+      neural networks - een netwerk dat de neuronen van het menselijk brein simuleerd om zo specifieke patronen te herkennen en conclusies kan trekken zonder feature selection van een mens.<br>
+      feature selection - het kiezen van welke features er worden gebruikt door de modellen. <br>
+      feature - een variabel in je dataset
+    </details>
   </details>
 ---------------------------------------------------------------------------  
   <details>
